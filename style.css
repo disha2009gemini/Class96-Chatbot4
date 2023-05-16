@@ -1,0 +1,14 @@
+.login_div{
+    float: none;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+}
+
+body{
+    background-color:lightblue;
+}
+
+#logout{
+    font-size: 20px;
+    float: right;
+}
